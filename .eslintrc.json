@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "@antfu",
+    "@antfu/typescript"
+  ],
+  "rules": {
+    "no-console": "off",
+    "curly": ["error", "all"],
+    "antfu/if-newline": "off",
+    "antfu/top-level-function": "off"
+  }
+}
